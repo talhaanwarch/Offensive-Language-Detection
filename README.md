@@ -1,5 +1,5 @@
 # Offensive-Language-Detection
-Tweets offensive language detection 
+Tweets offensive language detection <br>
 Step-1. Download data from https://sites.google.com/site/offensevalsharedtask/olid
 Step 2. Place data in directory. Check line 20 of TF-IDF.py file
 Step 3. Save your model to use them later
