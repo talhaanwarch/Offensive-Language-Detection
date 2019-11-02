@@ -10,3 +10,6 @@ profanity_check_lib.py use library profanity_check to do classification. Here is
 https://github.com/vzhou842/profanity-check<br>
 
 **Accuracy using olid data and SVM is 70%**
+
+# UPDATE 3/11/2019
+*created GRU and biGRU model and f1 score is above 75%
