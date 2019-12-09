@@ -25,3 +25,4 @@ Implement FastText embeddings
 
 # Source
 https://www.kaggle.com/christofhenkel/keras-baseline-lstm-attention-5-fold
+https://www.kaggle.com/buchan/transformer-network-with-1d-cnn-feature-extraction
