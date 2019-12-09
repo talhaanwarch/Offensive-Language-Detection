@@ -15,3 +15,13 @@ https://github.com/vzhou842/profanity-check<br>
 
 # UPDATE 3/11/2019
 *created GRU and biGRU model and f1 score is above 75%
+
+# Update 9/12/2019
+Implement attention mechansim on BiGRU.  
+Implement ELMO  
+Implement FastText embeddings 
+
+
+
+# Source
+https://www.kaggle.com/christofhenkel/keras-baseline-lstm-attention-5-fold
