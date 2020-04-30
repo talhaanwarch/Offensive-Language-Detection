@@ -72,10 +72,10 @@ Download data from https://sites.google.com/site/offensevalsharedtask/olid<br>
     <td>&nbsp;&nbsp;&nbsp;biGRU&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;71&nbsp;&nbsp;&nbsp;</td>
   </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;13&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;Glove FastText&nbsp;&nbsp;&nbsp;BiGRU&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;80&nbsp;&nbsp;&nbsp;</td>
+  <tr> <strong>
+    <td>&nbsp;&nbsp;&nbsp;<strong>13</strong>&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<strong>Glove FastText</strong>&nbsp;&nbsp;&nbsp;<strong>BiGRU</strong>&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<strong>80</strong>&nbsp;&nbsp;&nbsp;</td> </strong>
   </tr>
 </table>
 
